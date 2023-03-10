@@ -1,6 +1,6 @@
 import React from 'react';
 import { GlobalStyles } from '@mui/material';
-import backgroud from '../img/backgroud.jpg';
+import backgroud from '../img/background-3.jpg';
 
 const GlobalStyled: React.FC = () => {
   return (
