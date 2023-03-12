@@ -41,7 +41,7 @@ function ResponsiveAppBar() {
   };
 
   return (
-    <AppBar position="static" sx={{ borderRadius: "10px 10px 0px 0px" }}>
+    <AppBar position="static" sx={{ borderRadius: "3.5px 3.5px 0px 0px" }}>
       <Container maxWidth="xl">
         <Toolbar disableGutters>
           <ComputerIcon sx={{ display: { xs: "none", md: "flex" }, mr: 1 }} />
