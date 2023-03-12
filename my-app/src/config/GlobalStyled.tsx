@@ -1,6 +1,6 @@
-import React from 'react';
-import { GlobalStyles } from '@mui/material';
-import backgroud from '../img/backgroud.jpg';
+import React from "react";
+import { GlobalStyles } from "@mui/material";
+import backgroud from "../img/background-3.jpg";
 
 const GlobalStyled: React.FC = () => {
   return (
@@ -8,17 +8,17 @@ const GlobalStyled: React.FC = () => {
       <GlobalStyles
         styles={{
           body: {
-            padding: '0px',
-            margin: '0px',
+            padding: "0px",
+            margin: "0px",
             backgroundImage: `url(${backgroud})`,
-            backgroundSize: 'cover',
-            display: 'flex',
-            justifyContent: 'center',
-            alignItems: 'center',
-            height: '100vh' 
+            backgroundSize: "cover",
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+            height: "100vh",
           },
 
-          a: { textDecoration: 'none', color: 'black' }
+          a: { textDecoration: "none", color: "black" },
         }}
       />
     </>
