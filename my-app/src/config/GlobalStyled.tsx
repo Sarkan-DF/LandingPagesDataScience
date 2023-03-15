@@ -1,33 +1,3 @@
-<<<<<<< HEAD
-import React from 'react';
-import { GlobalStyles } from '@mui/material';
-import backgroud from '../img/background-3.jpg';
-
-const GlobalStyled: React.FC = () => {
-  return (
-    <>
-      <GlobalStyles
-        styles={{
-          body: {
-            padding: '0px',
-            margin: '0px',
-            backgroundImage: `url(${backgroud})`,
-            backgroundSize: 'cover',
-            display: 'flex',
-            justifyContent: 'center',
-            alignItems: 'center',
-            height: '100vh' 
-          },
-
-          a: { textDecoration: 'none', color: 'black' }
-        }}
-      />
-    </>
-  );
-};
-
-export default GlobalStyled;
-=======
 import React from "react";
 import { GlobalStyles } from "@mui/material";
 import backgroud from "../img/bg-2.jpg";
@@ -41,6 +11,7 @@ const GlobalStyled: React.FC = () => {
             padding: "2rem",
             margin: "0px",
             backgroundImage: `url(${backgroud})`,
+            backgroundPosition: "center",
             backgroundSize: "cover",
             display: "flex",
             flexDirection: "column",
@@ -56,4 +27,3 @@ const GlobalStyled: React.FC = () => {
 };
 
 export default GlobalStyled;
->>>>>>> origin/Assis
