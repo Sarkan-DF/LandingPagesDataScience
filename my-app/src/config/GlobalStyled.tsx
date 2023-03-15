@@ -1,6 +1,6 @@
 import React from "react";
 import { GlobalStyles } from "@mui/material";
-import backgroud from "../img/background-3.jpg";
+import backgroud from "../img/bg-2.jpg";
 
 const GlobalStyled: React.FC = () => {
   return (
@@ -8,14 +8,14 @@ const GlobalStyled: React.FC = () => {
       <GlobalStyles
         styles={{
           body: {
-            padding: "0px",
+            padding: "2rem",
             margin: "0px",
             backgroundImage: `url(${backgroud})`,
             backgroundSize: "cover",
             display: "flex",
+            flexDirection: "column",
             justifyContent: "center",
             alignItems: "center",
-            height: "100vh",
           },
 
           a: { textDecoration: "none", color: "black" },

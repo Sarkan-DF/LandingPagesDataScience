@@ -8,7 +8,7 @@ const defaultTheme = createTheme({
     },
     secondary: {
       main: "#DAA520",
-      contrastText: "#fffff",
+      contrastText: "#ffffff",
     },
   },
 });
