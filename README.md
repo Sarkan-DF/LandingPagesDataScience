@@ -1,5 +1,4 @@
-# Sobre o projeto
-# Título <h1>
+# Sobre o projeto <h1>
 
 Este é um projeto de Landing Page Data Science.
 
