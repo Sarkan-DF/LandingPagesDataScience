@@ -12,3 +12,17 @@ O projeto foi estruturado, a partir da atividade proposta do módulo ReactJS, Fr
 # Layout web
 ![image](https://user-images.githubusercontent.com/63614609/230193949-500d6f7d-471d-4d5b-8dbb-3a59a4f8f7ea.png)
 ![image](https://user-images.githubusercontent.com/63614609/230194288-df221982-93c7-4fb3-9a71-e5f98b0c5263.png)
+
+# Tecnologias utilizadas
+Front end
+HTML / CSS / JS / TypeScript;
+ReactJS;
+MUI;
+Autores
+Assis Junior https://www.linkedin.com/in/assis-junior/
+
+Igor Matos https://www.linkedin.com/in/igor-matos-22815b98/
+
+Stephan Costa https://www.linkedin.com/in/steph%C3%A0n-costa-291715196/
+
+Vitor da Silva Dias https://www.linkedin.com/in/vitor-da-silva-dias-2b24a0233/
