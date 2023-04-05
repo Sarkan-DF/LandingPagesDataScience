@@ -10,3 +10,5 @@ O projeto foi estruturado, a partir da atividade proposta do módulo ReactJS, Fr
 ![image](https://user-images.githubusercontent.com/63614609/230192987-a4e78c5c-dfd6-47f6-aef2-4a19b1eaaf4e.png)
 
 # Layout web
+![image](https://user-images.githubusercontent.com/63614609/230193949-500d6f7d-471d-4d5b-8dbb-3a59a4f8f7ea.png)
+![image](https://user-images.githubusercontent.com/63614609/230194288-df221982-93c7-4fb3-9a71-e5f98b0c5263.png)
