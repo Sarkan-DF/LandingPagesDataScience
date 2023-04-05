@@ -14,7 +14,7 @@ O projeto foi estruturado, a partir da atividade proposta do módulo ReactJS, Fr
 ![image](https://user-images.githubusercontent.com/63614609/230194288-df221982-93c7-4fb3-9a71-e5f98b0c5263.png)
 
 # Tecnologias utilizadas
-Front end
+Front end <h3>
 HTML / CSS / JS / TypeScript;
 ReactJS;
 MUI;
