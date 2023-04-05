@@ -19,7 +19,7 @@ O projeto foi estruturado, a partir da atividade proposta do módulo ReactJS, Fr
 * ReactJS;
 * MUI;
 
-Autores
+# Autores
 Assis Junior https://www.linkedin.com/in/assis-junior/
 
 Igor Matos https://www.linkedin.com/in/igor-matos-22815b98/
